@@ -2,6 +2,6 @@ This is an  example readme file that I have created to practice. I am Naga and I
 
 Languages I know:
 1. HTML
-1. JS
-1. CSS
-1. XML
+2. JS
+3. CSS
+4. XML
